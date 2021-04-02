@@ -3,6 +3,7 @@
 	"author": "Kevin Quito",
 	"description": "A web app that teaches people the ability to make meaningful contributions to software projects",
 	"keywords": ["freecodecamp", "API", "microservices"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
