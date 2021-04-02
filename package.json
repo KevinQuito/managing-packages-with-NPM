@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Kevin Quito",
-	"description": "A web app that teaches people the ability to make meaningful contributions to software projects", 
+	"description": "A web app that teaches people the ability to make meaningful contributions to software projects",
+	"keywords": ["freecodecamp", "API", "microservices"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
